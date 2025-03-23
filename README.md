@@ -53,7 +53,7 @@ A **1.1 kg water bottle** will test the system’s response to varying loads.
 **Assembly and Programming Duration**: 2 Days
 </details>
 
-## Team 
+## Meet the Team
 
 <table>
   <tr>
