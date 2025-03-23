@@ -3,12 +3,16 @@
 **Dr. Stephen Perry** is a **professor at Wilfrid Laurier University** specializing in biomechanics and neuroscience, with extensive expertise in gait stability and fall prevention. 
 He serves as **Chief Executive Officer** and **Chief Scientific Officer** of **BalancePro** and is an **Affiliate Scientist** at the **Toronto Rehabilitation Institute**. 
 Dr. Perry's research aims to better understand how perturbations affect gait stability, particularly to reduce fall risks among older adults and individuals with balance impairments. 
+<br> 
+<br> 
 
 ## Our Task
 
 Existing gait-assessment devices provide only translational motion, limiting the ability to simulate realistic rotational disturbances encountered during everyday walking. 
 Currently, our client lacks the **rotational data** necessary to fully understand gait reactions under uneven terrain conditions. 
 Our team was tasked with designing a device capable of inducing **controlled rotational perturbations**, enabling Dr. Perry to collect accurate data on natural gait responses without anticipatory adjustments from participants.
+<br> 
+<br> 
 
 ## **DASA** Concept
 
@@ -33,6 +37,8 @@ The system is housed in two **Aluminum 6061-T6 platforms** and is operator contr
 <img src="https://i.imgur.com/athzmcL.png" all="Screenshot" width="300">  <img src="https://i.imgur.com/tFBE1Ig.png" all="Screenshot" width="283">
 
 DASA Isometric View&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DASA Planar Rotation
+<br> 
+<br> 
 
 ## DASA Prototype
 
@@ -57,6 +63,7 @@ A **1.1 kg water bottle** will test the system’s response to varying loads.
 
 **Assembly and Programming Duration**: 2 Days
 </details>
+<br> 
 
 ## Meet the Team
 
