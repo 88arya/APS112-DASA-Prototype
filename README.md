@@ -82,6 +82,8 @@ A **1.1 kg water bottle** will test the system’s response to varying loads.
   </tr>
 </table>
 
+*All team members are currently TrackOne Engineering students at the University of Toronto.*
+
 
 
 
