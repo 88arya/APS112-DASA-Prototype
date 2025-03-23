@@ -46,7 +46,7 @@ The **DASA Prototype** is a 1:5 version of the final system designed to test the
 The prototype uses four **Linear Actuator Servo Motors** to simulate floor perturbations by controlling the vertical displacement and rotation of the platform.
 A sheet of **plywood** serves as the platform, which is manipulated by the actuators. 
 An **Arduino board** controls the servos, while **Python code** manages platform movement, simulating perturbations based on input. 
-A **1.1 kg water bottle** will test the system’s response to varying loads.
+A 1.1 kg water bottle will test the system’s response to varying loads.
 
 <details>
 <summary><em>Specifications</em></summary>
