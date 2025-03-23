@@ -24,5 +24,5 @@ A **1.1 kg water bottle** will test the system’s response to varying loads.
 
 ## Team
 
-**Created By:** Jason Joh, Luke Lu, Arya Lum, Makayla Uhm, Steven Wang, Jennifer Wong
+Jason Joh, Luke Lu, Arya Lum, Makayla Uhm, Steven Wang, Jennifer Wong
 
