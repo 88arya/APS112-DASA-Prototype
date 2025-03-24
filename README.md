@@ -36,6 +36,7 @@ The system is housed in two [**Aluminum 6061-T6**](https://asm.matweb.com/search
 
 DASA Isometric View&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DASA Planar Rotation
 </details>
+<br>
 
 ## DASA Prototype
 
@@ -62,6 +63,7 @@ A water bottle weighing up to 1.1 kg will test the system’s response to varyin
 
 Prototype Isometric View&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prototype Planar Rotation **change image urls after**
 </details>
+<br>
 
 ## Meet the Team
 
