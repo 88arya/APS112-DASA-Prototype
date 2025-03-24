@@ -24,21 +24,18 @@ The system is housed in two [**Aluminum 6061-T6**](https://asm.matweb.com/search
 <summary><em>Specifications</em></summary>
 <br>
   
-**Rotational Capabilities**: 11.4°
-<br>
-
-**Noise Generation**: <55 dB
-<br>
-
-**Estimated Cost**: 5654 CAD
+> **Rotational Capabilities**: 11.4°  
+> **Noise Generation**: <55 dB  
+> **Estimated Cost**: 5654 CAD  
 </details>
-<br>
 
-<img src="https://i.imgur.com/athzmcL.png" all="Screenshot" width="300">  <img src="https://i.imgur.com/tFBE1Ig.png" all="Screenshot" width="282">
+<details>
+<summary><em>Visuals</em></summary>
+<br>
+<img src="https://i.imgur.com/athzmcL.png" all="Screenshot" width="300" "DASA Isometric View">  <img src="https://i.imgur.com/tFBE1Ig.png" all="Screenshot" width="282" "DASA Planar Rotation">
 
 DASA Isometric View&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DASA Planar Rotation
-<br> 
-<br> 
+</details>
 
 ## DASA Prototype
 
@@ -52,24 +49,19 @@ A water bottle weighing up to 1.1 kg will test the system’s response to varyin
 <summary><em>Specifications</em></summary>
 <br>
   
-**Rotational Capabilities**: 11.3°
-<br>
-
-**Noise Generation**: <x dB
-<br>
-
-**Final Cost**: 188 CAD
-<br>
-
-**Assembly and Programming Duration**: 2 Days
+> **Rotational Capabilities**: 11.3°  
+> **Noise Generation**: <x dB  
+> **Final Cost**: 188 CAD  
+> **Assembly and Programming Duration**: 2 Days
 </details>
-<br> 
 
-<img src="https://i.imgur.com/athzmcL.png" all="Screenshot" width="300">  <img src="https://i.imgur.com/tFBE1Ig.png" all="Screenshot" width="283">
+<details>
+<summary><em>Visuals</em></summary>
+<br>
+<img src="https://i.imgur.com/athzmcL.png" all="Screenshot" width="300" "Prototype Isometric View">  <img src="https://i.imgur.com/tFBE1Ig.png" all="Screenshot" width="283" "Prototype Planar Rotation">
 
 Prototype Isometric View&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prototype Planar Rotation **change image urls after**
-<br> 
-<br> 
+</details>
 
 ## Meet the Team
 
