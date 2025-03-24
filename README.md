@@ -17,8 +17,8 @@ Our team was tasked with designing a device capable of inducing **controlled rot
 ## **DASA** Concept
 
 The **Dynamic Adjustable Support Actuators (DASA)** system is designed to induce perturbations in the walking cycle by adjusting floor movements to simulate uneven terrain and other perturbations. 
-It combines four [**ATO-LACTU-1200 motor actuators**](https://www.ato.com/micro-linear-actuator) for precise control and four [**IMA Linear Servo actuators**](https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators) for high-speed motion. 
-The system is housed in two [**Aluminum 6061-T6 platforms**](https://asm.matweb.com/search/specificmaterial.asp?bassnum=ma6061t6) and is operator controllable by a [**STM32H750VBT6 microcontroller**](https://www.st.com/en/microcontrollers-microprocessors/stm32h750vb.html). 
+It combines four [**ATO-LACTU-1200 Micro Linear Actuators**](https://www.ato.com/micro-linear-actuator) for precise control and four [**IMA Linear Servo Actuators**](https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators) for high-speed motion. 
+The system is housed in two [**Aluminum 6061-T6**](https://asm.matweb.com/search/specificmaterial.asp?bassnum=ma6061t6) platforms and is operator controllable by a [**STM32H750VBT6 microcontroller**](https://www.st.com/en/microcontrollers-microprocessors/stm32h750vb.html). 
 
 <details>
 <summary><em>Specifications</em></summary>
