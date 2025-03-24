@@ -46,7 +46,7 @@ The **DASA Prototype** is a **1:5** version of the final system designed to test
 The prototype uses four [**Linear Actuator Servo Motors**](https://fairchancelearning.shop/products/kitronik-linear-actuator-kit?_pos=7&_sid=b8a813375&_ss=r) to simulate floor perturbations by controlling the vertical displacement and rotation of the platform.
 A sheet of **plywood** serves as the platform, which is manipulated by the actuators. 
 An [**Arduino Board**](https://www.digikey.ca/en/products/detail/arduino/ABX00033/10239972?gclsrc=aw.ds&&utm_adgroup=General&utm_source=google&utm_medium=cpc&utm_campaign=PMax%20Shopping_Product_Zombie%20SKUs&utm_term=&productid=10239972&utm_content=General&utm_id=go_cmp-17855401585_adg-_ad-__dev-c_ext-_prd-10239972_sig-Cj0KCQjw4v6-BhDuARIsALprm33v3MGcgxKkj85n3o2qTrpYUZwGdrdcUg38ilc5cNAB8JJ1szlvuZEaAvqwEALw_wcB&gad_source=1&gclid=Cj0KCQjw4v6-BhDuARIsALprm33v3MGcgxKkj85n3o2qTrpYUZwGdrdcUg38ilc5cNAB8JJ1szlvuZEaAvqwEALw_wcB&gclsrc=aw.ds) controls the servos, while **Python code** manages platform movement, simulating perturbations based on input. 
-A 1.1 kg water bottle will test the system’s response to varying loads.
+A water bottle weighing up to 1.1 kg will test the system’s response to varying loads.
 
 <details>
 <summary><em>Specifications</em></summary>
