@@ -52,7 +52,7 @@ A 1.1 kg water bottle will test the system’s response to varying loads.
 <summary><em>Specifications</em></summary>
 <br>
   
-**Rotational Capabilities**: x°
+**Rotational Capabilities**: 11.3°
 <br>
 
 **Noise Generation**: <x dB
